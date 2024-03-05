@@ -8,7 +8,7 @@ This Christmas, the company has decided to not only sell each toy individually b
 
 The implementation should be based on Python using the PuLP library.
 
-**Input:**
+***Input:***
 The input file contains information about the n products, their profits, and the production capacity of the company for each product in the following format:
 
 A line containing three integers: t indicating the number of different toys that can be produced, p indicating the number of special packages, and max indicating the maximum number of toys that can be produced per day.
@@ -16,7 +16,7 @@ A list of n lines, where each line contains two integers li and ci, indicating t
 A list of p lines, where each line contains four integers i, j, k, and li jk, indicating the profit li jk of the special package {i, j, k}, and the names of the products i, j, and k that constitute it.
 Any integers in a line are separated by exactly one white space, with no other characters except the end of the line.
 
-**Output:**
+***Output:***
 The program should write to the output an integer corresponding to the maximum profit that Rüdolf can obtain daily.
 
 ```bash
