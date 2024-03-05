@@ -8,5 +8,5 @@ Analysis and Synthesis of Algorithms projects
 **Check the projects' README for more detailed information!**
 ```bash
 # clone the repository
-git clone https://github.com/AsTb04/Projetos-P2.git
+git clone https://github.com/tomasbernardino/ASA_IST.git
 ```
