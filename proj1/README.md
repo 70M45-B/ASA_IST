@@ -1,4 +1,4 @@
-# Project 2
+# Project 1
 ## Programming Language:
 - C++
 ## Problem Description:
