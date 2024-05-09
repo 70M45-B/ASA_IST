@@ -6,7 +6,4 @@ Analysis and Synthesis of Algorithms projects
 - project 3 involves applying linear programming techniques using the [PuLP](https://pypi.org/project/PuLP/) library.
 
 **Check the projects' README for more detailed information!**
-```bash
-# clone the repository
-git clone https://github.com/tomasbernardino/ASA_IST.git
-```
+
